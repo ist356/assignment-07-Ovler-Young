@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I found playright very useful!
+
+I've learned how to use playwright to automate web browser tasks. Actually I've tried wrote a small script to automatically try to buy a vps from RackNerd's flash sale, but it ended before I've finished the script, and they've upgraded to cloudflare challenges. But I've got one by hand with 2 CPU cores, 3GB ram, 6TB monthly bandwidth with 1Gbps port, 45GB SSD storage for $17.89/year. I'm very happy with it!
